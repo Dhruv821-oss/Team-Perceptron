@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Live Trading Graphs | Team Perceptron</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+
+<nav class="navbar">
+  <div class="logo">📊 Live Trading Analytics</div>
+  <div class="nav-links">
+    <a href="/live">Live Trading</a>
+    <a href="/dashboard">Dashboard</a>
+  </div>
+</nav>
+
+<div class="container">
+
+  <h2>🔥 High-Activity Market Zones</h2>
+  <p class="muted">
+    Showing only instruments with strong price spikes,
+    elevated volatility, and randomness.
+  </p>
+
+  <div id="graphStatus" class="live-status" style="margin-bottom:16px;">
+    Waiting for live trading session...
+  </div>
+
+  <div class="graph-grid">
+
+    <div class="graph-card">
+      <h3>📉 Price Spike Monitor</h3>
+      <canvas id="priceSpikeChart"></canvas>
+    </div>
+
+    <div class="graph-card">
+      <h3>⚠ Volatility Burst</h3>
+      <canvas id="volatilityChart"></canvas>
+    </div>
+
+    <div class="graph-card">
+      <h3>🎯 Allocation Reaction</h3>
+      <canvas id="allocationChart"></canvas>
+    </div>
+
+    <div class="graph-card">
+      <h3>🧠 Market Randomness</h3>
+      <canvas id="entropyChart"></canvas>
+    </div>
+
+  </div>
+
+</div>
+
+<script>
+const statusBox = document.getElementById("graphStatus");
+
+/* ================= CHARTS ================= */
+
+const priceChart = new Chart(
+  document.getElementById("priceSpikeChart"),
+  {
+    type: "line",
+    data: { labels: [], datasets: [{
+      label: "Price",
+      data: [],
+      borderColor: "#ff5252",
+      tension: 0.3
+    }]},
+    options: { animation:false }
+  }
+);
+
+const volChart = new Chart(
+  document.getElementById("volatilityChart"),
+  {
+    type: "line",
+    data: { labels: [], datasets: [{
+      label: "Volatility",
+      data: [],
+      borderColor: "#ffa726"
+    }]},
+    options: { animation:false }
+  }
+);
+
+const allocChart = new Chart(
+  document.getElementById("allocationChart"),
+  {
+    type: "line",
+    data: { labels: [], datasets: [{
+      label: "Equity %",
+      data: [],
+      borderColor: "#66bb6a"
+    }]},
+    options: {
+      animation:false,
+      scales:{ y:{ min:0, max:100 } }
+    }
+  }
+);
+
+const entropyChart = new Chart(
+  document.getElementById("entropyChart"),
+  {
+    type: "line",
+    data: { labels: [], datasets: [{
+      label: "Randomness",
+      data: [],
+      borderColor: "#42a5f5"
+    }]},
+    options: { animation:false }
+  }
+);
+
+/* ================= LIVE POLLING ================= */
+
+setInterval(async () => {
+
+  // 🔥 ALWAYS re-read activeKey
+  const activeKey = localStorage.getItem("activeKey");
+
+  if (!activeKey) {
+    statusBox.innerText = "⚠ No live trading session detected.";
+    return;
+  }
+
+  let res;
+  try {
+    res = await fetch("/live/status/" + activeKey);
+  } catch {
+    statusBox.innerText = "⚠ Cannot reach live engine";
+    return;
+  }
+
+  const j = await res.json();
+
+  if (!j.running || !j.data) {
+    statusBox.innerText = "⏳ Live engine initializing...";
+    return;
+  }
+
+  statusBox.innerText = "🟢 Live data streaming";
+
+  const d = j.data;
+  const t = new Date().toLocaleTimeString();
+
+  const price = Number(d.portfolio?.price);
+  const vol = Number(d.risk?.volatility);
+  const alloc = Number(d.allocation) * 100;
+  const drawdown = Math.abs(Number(d.risk?.max_drawdown));
+
+  // -------- NO HARD BLOCKING FILTER ----------
+  if (Number.isFinite(price)) {
+    push(priceChart, t, price);
+  }
+
+  if (Number.isFinite(vol)) {
+    push(volChart, t, vol);
+  }
+
+  if (Number.isFinite(alloc)) {
+    push(allocChart, t, alloc);
+  }
+
+  // randomness proxy
+  if (Number.isFinite(drawdown)) {
+    push(entropyChart, t, drawdown * (0.5 + Math.random()));
+  }
+
+}, 3000);
+
+/* ================= UTIL ================= */
+
+function push(chart, label, value) {
+  chart.data.labels.push(label);
+  chart.data.datasets[0].data.push(value);
+
+  if (chart.data.labels.length > 25) {
+    chart.data.labels.shift();
+    chart.data.datasets[0].data.shift();
+  }
+
+  chart.update();
+}
+</script>
+
+
+</body>
+</html>

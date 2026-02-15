@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Risk Analysis | Team Perceptron</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+
+<nav class="navbar">
+  <div class="logo">⚠ Risk Intelligence</div>
+  <div class="nav-links">
+    <a href="/dashboard">Dashboard</a>
+    <a href="/live">Live Trading</a>
+    <a href="/logout">Logout</a>
+  </div>
+</nav>
+
+<div class="container">
+
+  <div class="card">
+
+    <h1>📉 Portfolio Risk Analysis</h1>
+
+    <p class="muted">
+      Deep risk diagnostics based on historical performance,
+      downside behavior, and capital preservation metrics.
+    </p>
+
+    <hr>
+
+    <!-- ================= CAPITAL RISK ALERT ================= -->
+    <div id="capitalAlert" class="risk-alert safe">
+      🟢 Capital Healthy — No immediate risk detected
+    </div>
+
+    <!-- ================= METRICS GRID ================= -->
+    <div class="risk-grid">
+
+      <div class="risk-box good">
+        <h3>CAGR</h3>
+        <p class="metric" id="cagr">-</p>
+        <span class="desc">Annualized Growth</span>
+      </div>
+
+      <div class="risk-box neutral">
+        <h3>Sharpe Ratio</h3>
+        <p class="metric" id="sharpe">-</p>
+        <span class="desc">Risk-adjusted return</span>
+      </div>
+
+      <div class="risk-box good">
+        <h3>Sortino Ratio</h3>
+        <p class="metric" id="sortino">-</p>
+        <span class="desc">Downside-risk adjusted</span>
+      </div>
+
+      <div class="risk-box bad">
+        <h3>Max Drawdown</h3>
+        <p class="metric" id="maxdd">-</p>
+        <span class="desc">Worst peak-to-trough loss</span>
+      </div>
+
+      <div class="risk-box neutral">
+        <h3>Calmar Ratio</h3>
+        <p class="metric" id="calmar">-</p>
+        <span class="desc">Return vs drawdown</span>
+      </div>
+
+    </div>
+
+    <hr>
+
+    <!-- ================= INTERPRETATION ================= -->
+    <div class="card">
+
+      <h2>🧠 Risk Interpretation</h2>
+
+      <ul class="risk-notes">
+        <li>📈 CAGR measures long-term growth strength</li>
+        <li>⚖ Sharpe & Sortino explain risk efficiency</li>
+        <li>🔻 Drawdown reflects capital stress</li>
+        <li>🧮 Calmar balances return vs damage</li>
+      </ul>
+
+    </div>
+
+    <!-- ================= FUTURE EXTENSIONS ================= -->
+    <div class="card">
+
+      <h2>🚀 Upcoming Enhancements</h2>
+
+      <ul class="risk-notes">
+        <li>Rolling Sharpe & Drawdown charts</li>
+        <li>Scenario-based stress attribution</li>
+        <li>Automatic trading halt on critical risk</li>
+      </ul>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- ================= LIVE RISK SCRIPT ================= -->
+<script>
+const INITIAL_CAPITAL = 100000;
+const activeKey = localStorage.getItem("activeKey");
+const alertBox = document.getElementById("capitalAlert");
+
+if (!activeKey) {
+  alertBox.className = "risk-alert critical";
+  alertBox.innerText = "🔴 No live trading session detected.";
+}
+
+/* ===== CAPITAL ALERT ENGINE ===== */
+function updateCapitalAlert(maxDD, portfolioValue) {
+  alertBox.className = "risk-alert";
+
+  if (portfolioValue <= INITIAL_CAPITAL * 0.7 || maxDD <= -0.30) {
+    alertBox.classList.add("critical");
+    alertBox.innerText =
+      "🔴 CRITICAL: Capital drawdown exceeds safe limits. Trading should stop.";
+  }
+  else if (portfolioValue <= INITIAL_CAPITAL * 0.8 || maxDD <= -0.20) {
+    alertBox.classList.add("warning");
+    alertBox.innerText =
+      "🟠 WARNING: Capital under pressure. Risk exposure elevated.";
+  }
+  else {
+    alertBox.classList.add("safe");
+    alertBox.innerText =
+      "🟢 Capital Healthy — Risk within acceptable limits.";
+  }
+}
+
+/* ===== LIVE POLLING ===== */
+setInterval(async () => {
+  if (!activeKey) return;
+
+  const res = await fetch("/risk/status/" + activeKey);
+  const j = await res.json();
+  if (!j.running) return;
+
+  const r = j.risk;
+  const portfolioValue = j.portfolio_value ?? INITIAL_CAPITAL;
+
+  // ---- Update Metrics ----
+  document.getElementById("cagr").innerText =
+    r.CAGR ? (r.CAGR * 100).toFixed(2) + "%" : "-";
+
+  document.getElementById("sharpe").innerText =
+    r.Sharpe ?? "-";
+
+  document.getElementById("sortino").innerText =
+    r.Sortino ?? "-";
+
+  document.getElementById("maxdd").innerText =
+    r.MaxDrawdown ? (r.MaxDrawdown * 100).toFixed(2) + "%" : "-";
+
+  document.getElementById("calmar").innerText =
+    r.Calmar ?? "-";
+
+  // ---- Capital Risk Alert ----
+  updateCapitalAlert(r.MaxDrawdown ?? 0, portfolioValue);
+
+}, 4000);
+</script>
+
+</body>
+</html>

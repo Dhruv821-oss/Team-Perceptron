@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>AI Decision Dashboard</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<div class="card">
+  <h2>🤖 AI Decision Dashboard</h2>
+
+  <!-- ========================= -->
+  <!-- ANALYSIS FORM -->
+  <!-- ========================= -->
+  <form method="POST">
+    <input name="symbol" placeholder="RELIANCE.NS" required>
+    <button type="submit">Analyze Market</button>
+  </form>
+</div>
+
+{% if result %}
+
+<!-- ========================= -->
+<!-- ALLOCATION SUMMARY -->
+<!-- ========================= -->
+<div class="card">
+  <h2>📊 Allocation Summary</h2>
+
+  <p><b>Detected Regime:</b> {{ result.regime }}</p>
+  <p><b>Selected Stock:</b> {{ result.best_stock }}</p>
+  <p><b>Equity Allocation:</b>
+     {{ (result.allocation * 100) | round(0) }}%
+  </p>
+
+  <a href="/live" class="cta-btn">
+    🚀 Go to Live Trading
+  </a>
+</div>
+
+<!-- ========================= -->
+<!-- TABS -->
+<!-- ========================= -->
+<div class="tabs">
+  <button onclick="showTab('risk')">⚠ Risk</button>
+  <button onclick="showTab('backtest')">📈 Backtest</button>
+  <button onclick="showTab('stress')">🧪 Stress Test</button>
+</div>
+
+<!-- ========================= -->
+<!-- RISK TAB -->
+<!-- ========================= -->
+<div id="risk" class="tab-content">
+  <h3>⚠ Risk Metrics</h3>
+
+  <p><b>Volatility:</b> {{ result.risk.volatility }}</p>
+  <p><b>Max Drawdown:</b> {{ result.risk.max_drawdown }}</p>
+  <p>
+    <b>Risk Level:</b>
+    {% if result.risk.risk_level == "HIGH" %}
+      <span style="color:red;">HIGH</span>
+    {% else %}
+      <span style="color:green;">NORMAL</span>
+    {% endif %}
+  </p>
+</div>
+
+<!-- ========================= -->
+<!-- BACKTEST TAB -->
+<!-- ========================= -->
+<div id="backtest" class="tab-content" style="display:none;">
+  <h3>📈 Backtest Results</h3>
+
+  <p>
+    <b>Final Value (Initial = 1.0):</b>
+    {{ result.backtest.final_value }}
+  </p>
+</div>
+
+<!-- ========================= -->
+<!-- STRESS TEST TAB -->
+<!-- ========================= -->
+<div id="stress" class="tab-content" style="display:none;">
+  <h3>🧪 Stress Test</h3>
+
+  <p>
+    <b>Final Value:</b>
+    {{ result.stress.final_value }}
+  </p>
+
+  <p>
+    <b>Status:</b>
+    {% if result.stress.survived %}
+      <span style="color:green;">✅ Survived</span>
+    {% else %}
+      <span style="color:red;">❌ Failed</span>
+    {% endif %}
+  </p>
+</div>
+
+<!-- ========================= -->
+<!-- EXPLAINABILITY -->
+<!-- ========================= -->
+<div class="card">
+  <h3>🧠 AI Decision Justification</h3>
+  <p>{{ result.explanation }}</p>
+</div>
+
+{% endif %}
+
+<!-- ========================= -->
+<!-- LOGOUT -->
+<!-- ========================= -->
+<a href="/logout">Logout</a>
+
+<!-- ========================= -->
+<!-- TAB SCRIPT -->
+<!-- ========================= -->
+<script>
+function showTab(id) {
+  document.querySelectorAll(".tab-content")
+    .forEach(t => t.style.display = "none");
+
+  document.getElementById(id).style.display = "block";
+}
+</script>
+
+</body>
+</html>

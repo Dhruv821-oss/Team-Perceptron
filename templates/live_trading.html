@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Live AI Trading | Team Perceptron</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+
+<nav class="navbar">
+  <div class="logo">🧠 Team Perceptron</div>
+  <div class="nav-links">
+    <a href="/dashboard">Dashboard</a>
+    <a href="/logout">Logout</a>
+  </div>
+</nav>
+
+<div class="container">
+  <div class="card live-card">
+
+    <h1>🤖 Live AI Trading Engine</h1>
+
+    <p class="live-subtext">
+      Autonomous AI scans multiple stocks, selects the best opportunity,
+      applies risk control, and executes paper trades in real time.
+    </p>
+<a href="/risk">⚠ Risk Analysis</a>
+
+    <!-- START / STOP -->
+    <form class="trade-form" onsubmit="event.preventDefault(); startLiveTrading();">
+      <input id="symbolInput"
+             placeholder="TCS.NS, INFY.NS, RELIANCE.NS"
+             required>
+      <button type="submit" class="start-btn">▶ Start Trading</button>
+      <button type="button" onclick="stopLiveTrading()" class="stop-btn">⏹ Stop</button>
+    </form>
+<div class="graph-access">
+  <a href="/graphs" class="graph-btn">
+    📊 View Live Trading Graphs
+  </a>
+</div>
+
+    <!-- STATUS -->
+    <div id="statusBox" class="live-status" style="display:none;">
+      <span class="status-dot"></span> AI Engine Running
+    </div>
+
+    <hr>
+
+    <!-- ================= GRID ================= -->
+    <div class="live-grid">
+
+      <div class="live-box">
+        <h3>📌 Market Intelligence</h3>
+        <p>Regime: <span id="regime">-</span></p>
+        <p>Selected Stock: <span id="best_stock">-</span></p>
+        <p>Allocation: <span id="allocation">-</span></p>
+      </div>
+
+      <div class="live-box">
+        <h3>💼 Portfolio</h3>
+        <p>Cash: ₹<span id="cash">-</span></p>
+        <p>Position: <span id="position">-</span></p>
+        <p>Total Value: ₹<span id="portfolio">-</span></p>
+      </div>
+
+      <div class="live-box">
+        <h3>📈 Portfolio Value</h3>
+        <canvas id="portfolioChart" height="120"></canvas>
+      </div>
+
+      <div class="live-box">
+        <h3>⚠ Risk</h3>
+        <p>Volatility: <span id="risk_vol">-</span></p>
+        <p>Drawdown: <span id="risk_dd">-</span></p>
+        <p>Risk Level: <span id="risk_lvl">-</span></p>
+      </div>
+
+      <div class="live-box">
+        <h3>📈 Backtest</h3>
+        <p>Final Value: <span id="backtest_val">-</span></p>
+      </div>
+
+      <div class="live-box">
+        <h3>🧪 Stress Test</h3>
+        <p>Final Value: <span id="stress_val">-</span></p>
+        <p>Status: <span id="stress_status">-</span></p>
+      </div>
+
+    </div>
+
+    <!-- ================= TRANSACTION LOG ================= -->
+    <div class="live-box log-box">
+      <h3>📜 Transaction Log</h3>
+      <table class="trade-log">
+        <thead>
+          <tr>
+            <th>Time</th><th>Stock</th><th>Action</th>
+            <th>Price</th><th>Shares</th><th>Value</th>
+          </tr>
+        </thead>
+        <tbody id="tradeLog">
+          <tr><td colspan="6" style="opacity:.6;">No trades yet</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ================= AI DECISION LOG ================= -->
+    <div class="live-box log-box">
+      <h3>🧠 AI Decision Log</h3>
+      <ul id="decisionLog" class="decision-log">
+        <li class="placeholder">Waiting for AI decisions...</li>
+      </ul>
+    </div>
+
+    <div class="explain-box">
+      <h3>🧠 Current Reasoning</h3>
+      <p id="explain">Waiting for AI decision...</p>
+    </div>
+
+  </div>
+</div>
+
+<!-- ================= JS ================= -->
+<script>
+/* ===== DOM BINDINGS (CRITICAL FIX) ===== */
+const $ = id => document.getElementById(id);
+
+const regimeEl = $("regime");
+const bestStockEl = $("best_stock");
+const allocationEl = $("allocation");
+
+const cashEl = $("cash");
+const positionEl = $("position");
+const portfolioEl = $("portfolio");
+
+const riskVolEl = $("risk_vol");
+const riskDdEl = $("risk_dd");
+const riskLvlEl = $("risk_lvl");
+
+const backtestEl = $("backtest_val");
+
+const stressValEl = $("stress_val");
+const stressStatusEl = $("stress_status");
+
+const explainEl = $("explain");
+const tradeLogEl = $("tradeLog");
+const decisionLogEl = $("decisionLog");
+
+let poller = null;
+let activeKey = null;
+
+/* ===== CHART ===== */
+const ctx = $("portfolioChart").getContext("2d");
+const portfolioChart = new Chart(ctx, {
+  type: "line",
+  data: { labels: [], datasets: [{ data: [], borderColor: "#00e5ff", fill: true }] },
+  options: { responsive: true, animation: false, plugins:{legend:{display:false}} }
+});
+
+/* ===== START ===== */
+function startLiveTrading() {
+  const raw = $("symbolInput").value;
+  activeKey = raw.split(",").map(s => s.trim()).join("|");
+
+  localStorage.setItem("activeKey", activeKey);
+
+  fetch("/live/start", {
+    method: "POST",
+    headers: {"Content-Type": "application/x-www-form-urlencoded"},
+    body: "symbol=" + activeKey
+  }).then(() => {
+    $("statusBox").style.display = "flex";
+    startPolling();
+  });
+}
+
+/* ===== POLLING ===== */
+function startPolling() {
+  if (poller) return;
+
+  poller = setInterval(async () => {
+    const res = await fetch("/live/status/" + activeKey);
+    const resp = await res.json();
+    if (!resp.running || !resp.data) return;
+
+    const d = resp.data;
+
+    regimeEl.innerText = d.regime ?? "-";
+    bestStockEl.innerText = d.best_stock ?? "-";
+    allocationEl.innerText = ((d.allocation ?? 0) * 100).toFixed(0) + "%";
+
+    cashEl.innerText = d.portfolio?.cash ?? "-";
+    positionEl.innerText = d.portfolio?.position ?? "-";
+    portfolioEl.innerText = d.portfolio?.portfolio_value ?? "-";
+
+    riskVolEl.innerText = d.risk?.volatility ?? "-";
+    riskDdEl.innerText = d.risk?.max_drawdown ?? "-";
+    riskLvlEl.innerText = d.risk?.risk_level ?? "-";
+
+    backtestEl.innerText = d.backtest?.final_value ?? "-";
+
+    stressValEl.innerText = d.stress?.final_value ?? "-";
+    stressStatusEl.innerText =
+      d.stress?.survived ? "✅ Survived" : "❌ Failed";
+
+    explainEl.innerText = d.explanation ?? "Waiting...";
+
+    // ===== CHART =====
+    portfolioChart.data.labels.push(new Date().toLocaleTimeString());
+    portfolioChart.data.datasets[0].data.push(d.portfolio?.portfolio_value ?? 0);
+    if (portfolioChart.data.labels.length > 30) {
+      portfolioChart.data.labels.shift();
+      portfolioChart.data.datasets[0].data.shift();
+    }
+    portfolioChart.update();
+
+    // ===== LOGS =====
+    if (d.portfolio?.shares_traded !== 0) {
+      const action = d.portfolio.shares_traded > 0 ? "BUY" : "SELL";
+
+      tradeLogEl.insertAdjacentHTML("afterbegin", `
+        <tr>
+          <td>${new Date(d.portfolio.timestamp).toLocaleTimeString()}</td>
+          <td>${d.best_stock}</td>
+          <td>${action}</td>
+          <td>${d.portfolio.price}</td>
+          <td>${d.portfolio.shares_traded}</td>
+          <td>${d.portfolio.portfolio_value}</td>
+        </tr>
+      `);
+
+      decisionLogEl.insertAdjacentHTML("afterbegin", `
+        <li><b>${action}</b> ${d.best_stock}<br>${d.explanation}</li>
+      `);
+    }
+
+  }, 3000);
+}
+
+/* ===== STOP ===== */
+function stopLiveTrading() {
+  fetch("/live/stop", {
+    method: "POST",
+    headers: {"Content-Type": "application/x-www-form-urlencoded"},
+    body: "symbol=" + activeKey
+  });
+  clearInterval(poller);
+  poller = null;
+}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,713 @@
+Time,Symbol,Regime,Action,Equity Allocation,Explanation,Portfolio Value
+2026-02-14 22:36:01.201254,TCS.NS,High Volatility,AUTO_TRADE,0.19,"Market regime detected: High Volatility. Volatility spike detected, reducing exposure. Final equity allocation adjusted to 19%.",100000.0
+2026-02-14 22:36:21.030439,INFY.NS,High Volatility,AUTO_TRADE,0.17,"Market regime detected: High Volatility. Volatility spike detected, reducing exposure. Final equity allocation adjusted to 17%.",100000.0
+2026-02-14 22:54:33.920279,INFY.NS,High Volatility,AUTO_TRADE,0.17,"Market regime detected: High Volatility. Volatility spike detected, reducing exposure. Final equity allocation adjusted to 17%.",100000.0
+2026-02-14 23:25:16.287462,TCS.NS,High Volatility,AUTO_TRADE,0.19,"Market regime detected: High Volatility. Volatility spike detected, reducing exposure. Final equity allocation adjusted to 19%.",100000.0
+2026-02-14 23:44:26.057771,INFY.NS,High Volatility,AUTO_TRADE,0.17,"Market regime detected: High Volatility. Volatility spike detected, reducing exposure. Final equity allocation adjusted to 17%.",100000.0
+2026-02-14 23:44:36.652545,INFY.NS,High Volatility,AUTO_TRADE,0.17,"Market regime detected: High Volatility. Volatility spike detected, reducing exposure. Final equity allocation adjusted to 17%.",100000.0
+2026-02-14 23:44:47.295336,INFY.NS,High Volatility,AUTO_TRADE,0.17,"Market regime detected: High Volatility. Volatility spike detected, reducing exposure. Final equity allocation adjusted to 17%.",100000.0
+2026-02-14 23:44:57.778861,INFY.NS,High Volatility,AUTO_TRADE,0.17,"Market regime detected: High Volatility. Volatility spike detected, reducing exposure. Final equity allocation adjusted to 17%.",100000.0
+2026-02-14 23:45:08.139741,INFY.NS,High Volatility,AUTO_TRADE,0.17,"Market regime detected: High Volatility. Volatility spike detected, reducing exposure. Final equity allocation adjusted to 17%.",100000.0
+2026-02-14 23:45:18.477703,INFY.NS,High Volatility,AUTO_TRADE,0.17,"Market regime detected: High Volatility. Volatility spike detected, reducing exposure. Final equity allocation adjusted to 17%.",100000.0
+2026-02-14 23:45:28.844656,INFY.NS,High Volatility,AUTO_TRADE,0.17,"Market regime detected: High Volatility. Volatility spike detected, reducing exposure. Final equity allocation adjusted to 17%.",100000.0
+2026-02-14 23:45:39.362220,INFY.NS,High Volatility,AUTO_TRADE,0.17,"Market regime detected: High Volatility. Volatility spike detected, reducing exposure. Final equity allocation adjusted to 17%.",100000.0
+2026-02-14 23:45:49.922613,INFY.NS,High Volatility,AUTO_TRADE,0.17,"Market regime detected: High Volatility. Volatility spike detected, reducing exposure. Final equity allocation adjusted to 17%.",100000.0
+2026-02-14 23:46:00.597960,INFY.NS,High Volatility,AUTO_TRADE,0.17,"Market regime detected: High Volatility. Volatility spike detected, reducing exposure. Final equity allocation adjusted to 17%.",100000.0
+2026-02-14 23:46:10.913783,INFY.NS,High Volatility,AUTO_TRADE,0.17,"Market regime detected: High Volatility. Volatility spike detected, reducing exposure. Final equity allocation adjusted to 17%.",100000.0
+2026-02-14 23:46:21.155674,INFY.NS,High Volatility,AUTO_TRADE,0.17,"Market regime detected: High Volatility. Volatility spike detected, reducing exposure. Final equity allocation adjusted to 17%.",100000.0
+2026-02-14 23:46:31.448744,INFY.NS,High Volatility,AUTO_TRADE,0.17,"Market regime detected: High Volatility. Volatility spike detected, reducing exposure. Final equity allocation adjusted to 17%.",100000.0
+2026-02-14 23:46:41.781749,INFY.NS,High Volatility,AUTO_TRADE,0.17,"Market regime detected: High Volatility. Volatility spike detected, reducing exposure. Final equity allocation adjusted to 17%.",100000.0
+2026-02-14 23:46:52.250472,INFY.NS,High Volatility,AUTO_TRADE,0.17,"Market regime detected: High Volatility. Volatility spike detected, reducing exposure. Final equity allocation adjusted to 17%.",100000.0
+2026-02-14 23:47:02.617545,INFY.NS,High Volatility,AUTO_TRADE,0.17,"Market regime detected: High Volatility. Volatility spike detected, reducing exposure. Final equity allocation adjusted to 17%.",100000.0
+2026-02-14 23:47:13.068646,INFY.NS,High Volatility,AUTO_TRADE,0.17,"Market regime detected: High Volatility. Volatility spike detected, reducing exposure. Final equity allocation adjusted to 17%.",100000.0
+2026-02-14 23:47:23.298400,INFY.NS,High Volatility,AUTO_TRADE,0.17,"Market regime detected: High Volatility. Volatility spike detected, reducing exposure. Final equity allocation adjusted to 17%.",100000.0
+2026-02-14 23:47:33.676553,INFY.NS,High Volatility,AUTO_TRADE,0.17,"Market regime detected: High Volatility. Volatility spike detected, reducing exposure. Final equity allocation adjusted to 17%.",100000.0
+2026-02-14 23:47:43.894580,INFY.NS,High Volatility,AUTO_TRADE,0.17,"Market regime detected: High Volatility. Volatility spike detected, reducing exposure. Final equity allocation adjusted to 17%.",100000.0
+2026-02-15T01:22:52.884011,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T01:23:02.441462,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T01:23:11.918604,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T01:23:21.526075,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T01:23:30.988787,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T01:23:40.374417,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T01:23:50.139254,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T01:24:00.058801,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T01:24:10.115680,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T01:25:21.601276,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T01:25:34.072251,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T01:25:45.338402,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T01:25:56.250956,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T01:26:07.709328,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T01:26:18.427678,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T01:26:29.783143,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T01:26:40.395674,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T01:26:51.050514,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T01:27:02.446629,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T01:27:13.713999,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T01:27:25.186847,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T01:27:36.258639,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T01:27:46.701093,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T01:27:58.140920,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:33:54.809325,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:34:04.514942,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:34:13.891851,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:34:23.661481,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:34:33.187460,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:34:42.698110,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:34:52.423230,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:35:02.874178,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:35:12.809064,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:35:22.854152,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:35:32.581764,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:35:42.908445,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:35:53.444883,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:36:03.348625,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:36:08.678403,BAJFINANCE,High Volatility,AUTO_TRADE,0.17,AI selected BAJFINANCE under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:36:12.966932,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:36:21.940696,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,AI selected RELIANCE.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:36:29.049016,BAJAJFINSV,High Volatility,AUTO_TRADE,0.17,AI selected BAJAJFINSV under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:36:31.387971,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:36:40.641129,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,AI selected RELIANCE.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:36:44.659737,BAJAJFINSV,High Volatility,AUTO_TRADE,0.17,AI selected BAJAJFINSV under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:36:50.474871,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:36:59.721679,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,AI selected RELIANCE.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:37:04.869885,BPCL,High Volatility,AUTO_TRADE,0.17,AI selected BPCL under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:37:10.559563,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:37:19.976485,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,AI selected RELIANCE.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:37:23.667311,BHARTIARTL,High Volatility,AUTO_TRADE,0.17,AI selected BHARTIARTL under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:37:30.219994,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:37:31.611150,TCS.NY,High Volatility,AUTO_TRADE,0.24,AI selected TCS.NY under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:37:39.997729,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,AI selected RELIANCE.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:37:40.722408,TCS.NY,High Volatility,AUTO_TRADE,0.17,AI selected TCS.NY under High Volatility regime using risk-adjusted ranking.,99192.0
+2026-02-15T02:37:43.552937,BHARTIARTL,High Volatility,AUTO_TRADE,0.17,AI selected BHARTIARTL under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:37:50.496983,TCS.NY,High Volatility,AUTO_TRADE,0.17,AI selected TCS.NY under High Volatility regime using risk-adjusted ranking.,99192.0
+2026-02-15T02:37:50.501734,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:37:59.574544,TCS.NY,High Volatility,AUTO_TRADE,0.19,AI selected TCS.NY under High Volatility regime using risk-adjusted ranking.,115069.2
+2026-02-15T02:37:59.574544,TCS.NS,High Volatility,AUTO_TRADE,0.19,AI selected TCS.NS under High Volatility regime using risk-adjusted ranking.,115877.2
+2026-02-15T02:38:03.694758,BPCL,High Volatility,AUTO_TRADE,0.17,AI selected BPCL under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T02:38:08.933091,TCS.NY,High Volatility,AUTO_TRADE,0.19,AI selected TCS.NY under High Volatility regime using risk-adjusted ranking.,115069.2
+2026-02-15T02:38:09.242185,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,AI selected RELIANCE.NS under High Volatility regime using risk-adjusted ranking.,105292.4
+2026-02-15T02:38:18.529248,BPCL.NY,High Volatility,AUTO_TRADE,0.19,AI selected BPCL.NY under High Volatility regime using risk-adjusted ranking.,115069.2
+2026-02-15T02:38:19.132996,INFY.NS,High Volatility,AUTO_TRADE,0.19,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,122492.7
+2026-02-15T02:38:24.760210,BHARTIARTL,High Volatility,AUTO_TRADE,0.24,AI selected BHARTIARTL under High Volatility regime using risk-adjusted ranking.,100606.0
+2026-02-15T02:38:27.929344,BPCL.NY,High Volatility,AUTO_TRADE,0.19,AI selected BPCL.NY under High Volatility regime using risk-adjusted ranking.,115069.2
+2026-02-15T02:38:28.042321,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,AI selected RELIANCE.NS under High Volatility regime using risk-adjusted ranking.,111907.9
+2026-02-15T02:38:37.155476,BPCL.NY,High Volatility,AUTO_TRADE,0.19,AI selected BPCL.NY under High Volatility regime using risk-adjusted ranking.,115069.2
+2026-02-15T02:38:37.921109,INFY.NS,High Volatility,AUTO_TRADE,0.19,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,129108.2
+2026-02-15T02:38:46.674994,BAJFINANCE,High Volatility,AUTO_TRADE,0.24,AI selected BAJFINANCE under High Volatility regime using risk-adjusted ranking.,100606.0
+2026-02-15T19:59:04.792259,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T20:04:04.105485,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T20:05:48.010007,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T20:08:33.058107,INFY.NS,High Volatility,AUTO_TRADE,0.17,AI selected INFY.NS under High Volatility regime using risk-adjusted ranking.,100000.0
+2026-02-15T20:11:44.041953,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:15:10.051708,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:20:41.865940,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:20:52.716214,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:21:04.415537,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:21:13.846777,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:21:23.375187,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:21:32.827861,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:21:42.196036,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:21:51.498730,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:22:00.936903,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:22:11.398697,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:22:21.543908,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:22:33.026892,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:22:43.906840,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:22:54.817032,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:23:05.746195,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:23:16.288888,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:23:26.920837,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:23:37.872198,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:26:47.065173,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:26:56.837679,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:27:07.588858,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:27:18.311112,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:27:29.173670,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:27:39.756034,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:27:50.654965,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:28:01.650311,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:28:12.500989,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:28:22.856843,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:28:33.535964,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:28:45.086320,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:34:24.300921,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:34:33.746874,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:34:43.278846,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:34:52.780936,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:35:02.246281,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:35:11.781704,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:35:21.348898,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:35:30.936197,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:35:40.468157,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:35:49.815251,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:36:00.785468,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:36:11.421569,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:36:24.918078,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:36:33.769832,TCS.NS,High Volatility,AUTO_TRADE,0.28,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 28.0%. Volatility=0.233, Drawdown=-0.083.",88618.6
+2026-02-15T20:36:34.610517,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:36:43.201518,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",143628.7
+2026-02-15T20:36:58.618684,TCS.NS,High Volatility,AUTO_TRADE,0.24,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 24.0%. Volatility=0.247, Drawdown=-0.16.",159542.4
+2026-02-15T20:36:58.919059,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:37:07.896233,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",144564.8
+2026-02-15T20:37:11.095256,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:37:17.524539,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",144564.8
+2026-02-15T20:37:26.887298,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",144564.8
+2026-02-15T20:37:26.887298,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:37:37.983422,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",144564.8
+2026-02-15T20:37:54.228106,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",144564.8
+2026-02-15T20:38:11.607527,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",144564.8
+2026-02-15T20:38:15.306539,LT.NS,High Volatility,AUTO_TRADE,0.2,"LT.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:38:22.534828,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",144564.8
+2026-02-15T20:38:40.130291,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",144564.8
+2026-02-15T20:38:45.492252,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:38:50.848785,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",144564.8
+2026-02-15T20:38:59.942467,TCS.NS,High Volatility,AUTO_TRADE,0.27,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 27.0%. Volatility=0.206, Drawdown=-0.087.",145338.3
+2026-02-15T20:39:09.143265,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",144109.8
+2026-02-15T20:39:14.969390,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:39:20.100667,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",144109.8
+2026-02-15T20:39:29.685870,INFY.NS,High Volatility,AUTO_TRADE,0.2,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",141211.3
+2026-02-15T20:39:31.378142,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:39:40.235284,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",145132.8
+2026-02-15T20:39:49.061057,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:39:49.954993,TCS.NS,High Volatility,AUTO_TRADE,0.25,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 25.0%. Volatility=0.259, Drawdown=-0.132.",151044.0
+2026-02-15T20:40:00.652288,INFY.NS,High Volatility,AUTO_TRADE,0.24,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 24.0%. Volatility=0.219, Drawdown=-0.133.",144930.2
+2026-02-15T20:40:05.128769,LT.NS,High Volatility,AUTO_TRADE,0.2,"LT.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:40:10.127897,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",143718.2
+2026-02-15T20:40:18.824874,TCS.NS,High Volatility,AUTO_TRADE,0.24,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 24.0%. Volatility=0.247, Drawdown=-0.16.",159631.9
+2026-02-15T20:40:19.012849,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:40:27.967358,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",144654.3
+2026-02-15T20:40:36.707940,RELIANCE.NS,High Volatility,AUTO_TRADE,0.2,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",141755.8
+2026-02-15T20:40:38.800291,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:40:46.014092,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",145677.3
+2026-02-15T20:40:55.108943,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:40:55.989066,RELIANCE.NS,High Volatility,AUTO_TRADE,0.24,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 24.0%. Volatility=0.219, Drawdown=-0.133.",146586.3
+2026-02-15T20:41:05.083215,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",145374.3
+2026-02-15T20:41:09.527858,LT.NS,High Volatility,AUTO_TRADE,0.2,"LT.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:41:15.800016,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",145374.3
+2026-02-15T20:41:24.896855,TCS.NS,Crash,AUTO_TRADE,0.0,"TCS.NS selected under Crash regime. Risk-adjusted allocation = 0.0%. Volatility=0.253, Drawdown=-0.264.",126378.0
+2026-02-15T20:41:27.362661,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:41:35.672598,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",126378.0
+2026-02-15T20:41:44.983033,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",126378.0
+2026-02-15T20:41:45.055925,AXISBANK.NS,High Volatility,AUTO_TRADE,0.21,"AXISBANK.NS selected under High Volatility regime. Risk-adjusted allocation = 21.0%. Volatility=0.323, Drawdown=-0.055.",102139.2
+2026-02-15T20:41:55.761745,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",126378.0
+2026-02-15T20:42:00.901182,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:42:06.255858,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",126378.0
+2026-02-15T20:42:15.658648,TCS.NS,High Volatility,AUTO_TRADE,0.2,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",123820.5
+2026-02-15T20:42:16.992262,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:42:25.950970,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",127230.5
+2026-02-15T20:42:29.992301,LT.NS,High Volatility,AUTO_TRADE,0.2,"LT.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:42:36.711517,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",127230.5
+2026-02-15T20:42:46.357168,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",127230.5
+2026-02-15T20:42:58.276187,LT.NS,High Volatility,AUTO_TRADE,0.2,"LT.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:43:03.810261,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",127230.5
+2026-02-15T20:43:13.797120,TCS.NS,High Volatility,AUTO_TRADE,0.2,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",124673.0
+2026-02-15T20:43:22.919712,TCS.NS,High Volatility,AUTO_TRADE,0.17,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",128083.0
+2026-02-15T20:43:32.514895,RELIANCE.NS,Calm Bear,AUTO_TRADE,0.17,"RELIANCE.NS selected under Calm Bear regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",128083.0
+2026-02-15T20:43:42.048384,RELIANCE.NS,Calm Bear,AUTO_TRADE,0.27,"RELIANCE.NS selected under Calm Bear regime. Risk-adjusted allocation = 27.0%. Volatility=0.206, Drawdown=-0.087.",128765.5
+2026-02-15T20:43:45.862849,KOTAKBANK.NS,High Volatility,AUTO_TRADE,0.21,"KOTAKBANK.NS selected under High Volatility regime. Risk-adjusted allocation = 21.0%. Volatility=0.323, Drawdown=-0.055.",102139.2
+2026-02-15T20:43:51.423785,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",127673.5
+2026-02-15T20:44:00.183499,TCS.NS,Crash,AUTO_TRADE,0.0,"TCS.NS selected under Crash regime. Risk-adjusted allocation = 0.0%. Volatility=0.266, Drawdown=-0.203.",142633.0
+2026-02-15T20:44:00.207474,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:44:10.183843,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",142633.0
+2026-02-15T20:44:15.436360,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:44:20.785274,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",142633.0
+2026-02-15T20:44:31.593514,RELIANCE.NS,High Volatility,AUTO_TRADE,0.21,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 21.0%. Volatility=0.323, Drawdown=-0.055.",142007.4
+2026-02-15T20:44:37.002262,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:44:42.711151,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",142817.0
+2026-02-15T20:44:52.172296,TCS.NS,High Volatility,AUTO_TRADE,0.2,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",139918.5
+2026-02-15T20:45:01.544798,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",143840.0
+2026-02-15T20:45:04.399823,LT.NS,High Volatility,AUTO_TRADE,0.2,"LT.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:45:12.028967,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",143840.0
+2026-02-15T20:45:21.089795,TCS.NS,High Volatility,AUTO_TRADE,0.24,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 24.0%. Volatility=0.247, Drawdown=-0.16.",159753.7
+2026-02-15T20:45:30.279814,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",144776.1
+2026-02-15T20:45:40.904336,RELIANCE.NS,High Volatility,AUTO_TRADE,0.24,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 24.0%. Volatility=0.219, Drawdown=-0.133.",145634.6
+2026-02-15T20:45:50.776022,TCS.NS,Crash,AUTO_TRADE,0.0,"TCS.NS selected under Crash regime. Risk-adjusted allocation = 0.0%. Volatility=0.266, Drawdown=-0.203.",168357.8
+2026-02-15T20:45:50.780624,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:46:00.044317,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",168357.8
+2026-02-15T20:46:03.045920,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:46:09.527103,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",168357.8
+2026-02-15T20:46:18.059033,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:46:18.513407,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",168357.8
+2026-02-15T20:46:27.282652,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",168357.8
+2026-02-15T20:46:32.196357,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:47:12.983158,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:47:23.674733,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:47:34.856284,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:47:45.865680,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:47:56.851434,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:48:06.348480,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:48:15.838953,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:48:25.354257,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:48:35.070193,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:48:45.829916,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:48:57.089356,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:49:08.025892,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:49:17.639300,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:49:27.307298,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:49:38.378543,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:49:49.415972,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:49:58.928079,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:50:08.570179,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:50:19.174945,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:50:30.016576,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:50:40.619839,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:50:51.111123,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:51:02.713878,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:51:13.867528,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:51:25.330021,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:51:37.193898,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:51:48.800580,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:51:58.890563,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:52:08.741345,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:52:18.631306,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T20:53:33.969345,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:53:50.793899,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:54:07.892537,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:54:25.379967,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:54:49.820955,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:55:15.571077,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:55:41.833985,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:56:08.803073,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:56:33.046013,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:56:50.946657,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:57:08.080830,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:57:26.800120,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:57:53.440376,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:58:13.195166,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:58:30.893761,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:58:54.102742,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:59:20.651523,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T20:59:44.855227,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:00:07.964949,TCS.NS,High Volatility,AUTO_TRADE,0.19,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 19.0%. Volatility=0.361, Drawdown=-0.19.",100000.0
+2026-02-15T21:00:35.920870,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:00:59.843356,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:01:18.830679,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:01:38.297435,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:02:00.133103,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:02:20.148519,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:03:24.214819,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:03:57.676803,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:04:20.544597,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:04:49.037327,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:05:25.182608,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:05:50.284203,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:06:12.800626,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:06:31.174035,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:06:50.931752,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:07:06.916334,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:07:22.467106,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:07:50.610586,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:08:06.212267,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:08:28.684610,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:08:55.733755,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:09:19.001042,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:09:37.093545,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:09:57.131283,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:10:18.241931,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:10:36.899929,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:10:54.793613,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:38:00.514521,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T21:38:20.894588,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:38:36.281754,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:38:53.511879,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:39:15.364507,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:39:37.430809,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:40:00.779971,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:40:16.949905,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:40:33.099288,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:40:55.339087,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:41:17.809074,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:41:36.947950,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:41:52.932429,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:42:15.170606,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:42:37.381832,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:42:56.359739,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:43:13.106340,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:43:29.254307,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:43:45.775165,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:51:35.576662,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:51:56.907106,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:52:20.916470,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:52:42.816091,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:53:04.831407,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:53:27.523561,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:53:51.660158,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:54:07.565640,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:54:23.510474,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:54:39.538701,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:54:55.131314,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:55:10.716584,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:55:26.248134,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:55:42.619531,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:55:58.516568,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:56:14.496543,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T21:56:30.453294,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:11:31.846131,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T22:11:41.235336,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T22:11:52.045506,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T22:12:03.055909,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T22:12:13.796059,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T22:12:24.632982,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T22:12:35.528467,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T22:12:46.388701,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T22:12:55.822811,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T22:13:11.889593,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T22:13:21.353034,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T22:13:31.006962,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T22:13:40.482380,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T22:13:51.343981,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T22:14:01.969916,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T22:14:12.805293,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T22:14:23.950211,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T22:30:04.255131,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:30:25.340106,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:30:42.489058,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:31:02.488203,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:31:46.229535,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:32:03.780143,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:32:32.645863,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:32:47.578826,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:33:02.418773,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:33:11.688230,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T22:33:14.497820,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:35:07.482155,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T22:35:13.171254,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:35:17.750250,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T22:35:27.388962,TCS.NS,High Volatility,AUTO_TRADE,0.2,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",97954.0
+2026-02-15T22:35:31.950907,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:35:38.095602,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100682.0
+2026-02-15T22:35:47.522863,TCS.NS,Crash,AUTO_TRADE,0.0,"TCS.NS selected under Crash regime. Risk-adjusted allocation = 0.0%. Volatility=0.253, Drawdown=-0.264.",100682.0
+2026-02-15T22:35:49.510149,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:35:58.386510,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100682.0
+2026-02-15T22:36:07.594191,TCS.NS,High Volatility,AUTO_TRADE,0.28,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 28.0%. Volatility=0.233, Drawdown=-0.083.",88352.15
+2026-02-15T22:36:08.376245,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:36:16.956886,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",143362.25
+2026-02-15T22:36:22.378843,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:36:26.500619,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",143362.25
+2026-02-15T22:36:35.416427,TCS.NS,High Volatility,AUTO_TRADE,0.21,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 21.0%. Volatility=0.323, Drawdown=-0.055.",142699.85
+2026-02-15T22:36:36.484897,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:36:45.447993,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",143509.45
+2026-02-15T22:36:51.242069,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:36:54.958232,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",143509.45
+2026-02-15T22:37:03.662721,TCS.NS,High Volatility,AUTO_TRADE,0.21,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 21.0%. Volatility=0.323, Drawdown=-0.055.",142847.05
+2026-02-15T22:37:04.208668,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:37:13.620666,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",143656.65
+2026-02-15T22:37:18.748028,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:37:24.509590,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",143656.65
+2026-02-15T22:37:33.806076,TCS.NS,High Volatility,AUTO_TRADE,0.21,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 21.0%. Volatility=0.323, Drawdown=-0.055.",143067.85
+2026-02-15T22:37:35.561643,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:37:43.202940,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",143877.45
+2026-02-15T22:37:51.135761,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:37:52.371395,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",143877.45
+2026-02-15T22:38:01.119998,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",143877.45
+2026-02-15T22:38:03.377325,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:38:10.401161,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",143877.45
+2026-02-15T22:38:19.089109,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:38:20.000418,TCS.NS,High Volatility,AUTO_TRADE,0.25,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 25.0%. Volatility=0.259, Drawdown=-0.132.",149460.25
+2026-02-15T22:38:30.031348,TCS.NS,High Volatility,AUTO_TRADE,0.17,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",142235.45
+2026-02-15T22:38:36.920369,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:38:40.652031,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",142235.45
+2026-02-15T22:38:50.399895,TCS.NS,High Volatility,AUTO_TRADE,0.27,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 27.0%. Volatility=0.206, Drawdown=-0.087.",143054.45
+2026-02-15T22:38:52.977066,LT.NS,High Volatility,AUTO_TRADE,0.2,"LT.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:39:01.000308,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",141825.95
+2026-02-15T22:39:10.660692,RELIANCE.NS,High Volatility,AUTO_TRADE,0.28,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 28.0%. Volatility=0.233, Drawdown=-0.083.",125702.3
+2026-02-15T22:39:11.509414,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:39:20.076794,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",204423.65
+2026-02-15T22:39:26.529741,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T22:39:29.464493,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",204423.65
+2026-02-15T22:39:38.244031,TCS.NS,Crash,AUTO_TRADE,0.0,"TCS.NS selected under Crash regime. Risk-adjusted allocation = 0.0%. Volatility=0.253, Drawdown=-0.264.",204423.65
+2026-02-15T22:39:53.859847,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",204423.65
+2026-02-15T22:39:57.868761,KOTAKBANK.NS,High Volatility,AUTO_TRADE,0.21,"KOTAKBANK.NS selected under High Volatility regime. Risk-adjusted allocation = 21.0%. Volatility=0.323, Drawdown=-0.055.",102272.9
+2026-02-15T22:40:04.445217,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",204423.65
+2026-02-15T22:40:13.936184,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",204423.65
+2026-02-15T22:40:14.963629,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100267.4
+2026-02-15T22:40:23.937896,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",204423.65
+2026-02-15T22:40:29.748151,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100267.4
+2026-02-15T22:40:34.624903,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",204423.65
+2026-02-15T22:40:43.866649,TCS.NS,High Volatility,AUTO_TRADE,0.2,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",199990.65
+2026-02-15T22:40:47.085007,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100267.4
+2026-02-15T22:40:53.741588,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",205617.15
+2026-02-15T22:41:01.664206,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100267.4
+2026-02-15T22:41:03.064228,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",205617.15
+2026-02-15T22:42:19.704804,RELIANCE.NS,High Volatility,AUTO_TRADE,0.2,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",201525.15
+2026-02-15T22:42:23.925749,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100267.4
+2026-02-15T22:42:30.082497,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",207151.65
+2026-02-15T22:42:39.243201,TCS.NS,Crash,AUTO_TRADE,0.0,"TCS.NS selected under Crash regime. Risk-adjusted allocation = 0.0%. Volatility=0.253, Drawdown=-0.264.",207151.65
+2026-02-15T22:42:40.967532,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100267.4
+2026-02-15T22:42:48.685410,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",207151.65
+2026-02-15T22:42:56.163389,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100267.4
+2026-02-15T22:42:58.274233,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",207151.65
+2026-02-15T22:43:07.055377,RELIANCE.NS,High Volatility,AUTO_TRADE,0.2,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",203059.65
+2026-02-15T22:43:19.180740,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100267.4
+2026-02-15T22:43:21.974353,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",208686.15
+2026-02-15T22:43:31.790842,INFY.NS,High Volatility,AUTO_TRADE,0.0,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 0.0%. Volatility=0.253, Drawdown=-0.264.",208686.15
+2026-02-15T22:43:35.823060,AXISBANK.NS,High Volatility,AUTO_TRADE,0.21,"AXISBANK.NS selected under High Volatility regime. Risk-adjusted allocation = 21.0%. Volatility=0.323, Drawdown=-0.055.",102540.3
+2026-02-15T22:43:41.456183,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",208686.15
+2026-02-15T22:43:50.644643,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100534.8
+2026-02-15T22:43:50.945797,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",208686.15
+2026-02-15T22:43:59.753756,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",208686.15
+2026-02-15T22:44:02.886103,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100534.8
+2026-02-15T22:44:09.174747,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",208686.15
+2026-02-15T22:44:19.135904,RELIANCE.NS,High Volatility,AUTO_TRADE,0.21,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 21.0%. Volatility=0.323, Drawdown=-0.055.",207766.15
+2026-02-15T22:44:20.464268,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100534.8
+2026-02-15T22:44:29.407193,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",208943.75
+2026-02-15T22:44:35.328812,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100534.8
+2026-02-15T22:44:40.128911,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",208943.75
+2026-02-15T22:44:50.160396,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",208943.75
+2026-02-15T22:44:52.919575,KOTAKBANK.NS,High Volatility,AUTO_TRADE,0.21,"KOTAKBANK.NS selected under High Volatility regime. Risk-adjusted allocation = 21.0%. Volatility=0.323, Drawdown=-0.055.",102674.0
+2026-02-15T22:44:59.413678,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",208943.75
+2026-02-15T22:45:08.357142,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:45:08.843506,INFY.NS,High Volatility,AUTO_TRADE,0.25,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 25.0%. Volatility=0.259, Drawdown=-0.132.",216825.35
+2026-02-15T22:45:18.468420,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",206644.95
+2026-02-15T22:45:23.501162,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:45:27.771173,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",206644.95
+2026-02-15T22:45:36.846327,TCS.NS,High Volatility,AUTO_TRADE,0.28,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 28.0%. Volatility=0.233, Drawdown=-0.083.",181985.25
+2026-02-15T22:45:38.223986,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:45:46.374729,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",296747.69
+2026-02-15T22:45:55.413684,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:45:55.874715,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",296747.69
+2026-02-15T22:46:05.450716,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",296747.69
+2026-02-15T22:46:14.674817,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:46:14.676866,TCS.NS,Crash,AUTO_TRADE,0.0,"TCS.NS selected under Crash regime. Risk-adjusted allocation = 0.0%. Volatility=0.266, Drawdown=-0.203.",296747.69
+2026-02-15T22:46:25.444436,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",296747.69
+2026-02-15T22:46:30.727675,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:46:35.962165,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",296747.69
+2026-02-15T22:46:45.473417,TCS.NS,High Volatility,AUTO_TRADE,0.2,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",290780.19
+2026-02-15T22:46:48.193463,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:46:56.054388,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",298964.19
+2026-02-15T22:47:05.225836,TCS.NS,High Volatility,AUTO_TRADE,0.21,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 21.0%. Volatility=0.323, Drawdown=-0.055.",297602.6
+2026-02-15T22:47:06.955028,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:47:15.881700,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",299295.39
+2026-02-15T22:47:25.748482,TCS.NS,High Volatility,AUTO_TRADE,0.16,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 16.0%. Volatility=0.366, Drawdown=-0.174.",286554.44
+2026-02-15T22:47:25.861355,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:47:35.789050,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",301705.84
+2026-02-15T22:47:39.519593,LT.NS,High Volatility,AUTO_TRADE,0.2,"LT.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:48:04.298492,RELIANCE.NS,High Volatility,AUTO_TRADE,0.24,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 24.0%. Volatility=0.219, Drawdown=-0.133.",303574.34
+2026-02-15T22:48:07.023805,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:48:13.723420,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",300998.84
+2026-02-15T22:48:22.411646,TCS.NS,High Volatility,AUTO_TRADE,0.17,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",300998.84
+2026-02-15T22:48:24.944670,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:48:31.816590,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",300998.84
+2026-02-15T22:48:40.132576,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:48:40.518107,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",300998.84
+2026-02-15T22:48:49.466322,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",300998.84
+2026-02-15T22:48:52.113703,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:49:00.166153,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",300998.84
+2026-02-15T22:49:09.864151,RELIANCE.NS,High Volatility,AUTO_TRADE,0.24,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 24.0%. Volatility=0.247, Drawdown=-0.16.",336570.64
+2026-02-15T22:49:10.886896,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:49:19.855457,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",303807.14
+2026-02-15T22:49:29.607752,RELIANCE.NS,High Volatility,AUTO_TRADE,0.24,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 24.0%. Volatility=0.247, Drawdown=-0.16.",338442.84
+2026-02-15T22:49:30.513118,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:49:39.037596,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",305679.34
+2026-02-15T22:49:48.418094,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",305679.34
+2026-02-15T22:49:50.686840,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:49:57.975599,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",305679.34
+2026-02-15T22:50:05.435105,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:50:07.223288,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",305679.34
+2026-02-15T22:50:22.087742,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",305679.34
+2026-02-15T22:50:27.404232,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:50:32.867255,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",305679.34
+2026-02-15T22:50:42.168557,TCS.NS,Crash,AUTO_TRADE,0.0,"TCS.NS selected under Crash regime. Risk-adjusted allocation = 0.0%. Volatility=0.253, Drawdown=-0.264.",305679.34
+2026-02-15T22:50:57.366264,TCS.NS,High Volatility,AUTO_TRADE,0.28,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 28.0%. Volatility=0.233, Drawdown=-0.083.",269638.24
+2026-02-15T22:50:58.183805,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:51:06.663516,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",439410.79
+2026-02-15T22:51:09.607958,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:51:15.872928,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",439410.79
+2026-02-15T22:51:24.162328,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:51:24.595799,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",439410.79
+2026-02-15T22:51:34.095225,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",439410.79
+2026-02-15T22:51:43.061674,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:51:50.895572,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",439410.79
+2026-02-15T22:52:00.362644,TCS.NS,High Volatility,AUTO_TRADE,0.21,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 21.0%. Volatility=0.323, Drawdown=-0.055.",437460.39
+2026-02-15T22:52:01.571036,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:52:10.591985,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",439962.79
+2026-02-15T22:52:14.583284,LT.NS,High Volatility,AUTO_TRADE,0.2,"LT.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:52:21.170425,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",439962.79
+2026-02-15T22:52:30.124196,TCS.NS,High Volatility,AUTO_TRADE,0.24,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 24.0%. Volatility=0.247, Drawdown=-0.16.",491448.29
+2026-02-15T22:52:31.094504,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:52:39.605709,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",443707.19
+2026-02-15T22:52:45.555280,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:52:48.837964,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",443707.19
+2026-02-15T22:52:58.253321,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",443707.19
+2026-02-15T22:52:59.911253,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:53:07.744681,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",443707.19
+2026-02-15T22:53:14.971175,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:53:17.135619,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",443707.19
+2026-02-15T22:53:25.883666,TCS.NS,High Volatility,AUTO_TRADE,0.27,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 27.0%. Volatility=0.206, Drawdown=-0.087.",446255.19
+2026-02-15T22:54:52.360305,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",442387.69
+2026-02-15T22:55:00.401250,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:55:02.028099,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",442387.69
+2026-02-15T22:55:10.795957,RELIANCE.NS,Calm Bear,AUTO_TRADE,0.17,"RELIANCE.NS selected under Calm Bear regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",442387.69
+2026-02-15T22:55:12.158788,LT.NS,High Volatility,AUTO_TRADE,0.2,"LT.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:55:20.062929,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",442387.69
+2026-02-15T22:55:26.716451,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:55:29.468469,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",442387.69
+2026-02-15T22:55:39.036447,RELIANCE.NS,High Volatility,AUTO_TRADE,0.21,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 21.0%. Volatility=0.323, Drawdown=-0.055.",440400.49
+2026-02-15T22:55:42.004215,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:55:48.495348,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",442939.69
+2026-02-15T22:55:56.975156,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:55:57.838091,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",442939.69
+2026-02-15T22:56:06.453615,TCS.NS,High Volatility,AUTO_TRADE,0.17,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",442939.69
+2026-02-15T22:56:09.093822,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:56:15.695947,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",442939.69
+2026-02-15T22:56:23.937574,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:56:24.447422,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",442939.69
+2026-02-15T22:56:33.757637,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",442939.69
+2026-02-15T22:56:43.514550,RELIANCE.NS,High Volatility,AUTO_TRADE,0.24,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 24.0%. Volatility=0.247, Drawdown=-0.16.",493489.09
+2026-02-15T22:56:45.246362,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:56:53.160806,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",445747.99
+2026-02-15T22:56:59.982746,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:57:02.313905,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",445747.99
+2026-02-15T22:57:11.015579,TCS.NS,High Volatility,AUTO_TRADE,0.27,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 27.0%. Volatility=0.206, Drawdown=-0.087.",448295.99
+2026-02-15T22:57:20.633376,RELIANCE.NS,Calm Bear,AUTO_TRADE,0.2,"RELIANCE.NS selected under Calm Bear regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",429935.99
+2026-02-15T22:57:22.510768,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:57:29.885745,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",442041.49
+2026-02-15T22:57:37.058199,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:57:39.314362,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",442041.49
+2026-02-15T22:57:55.389852,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",442041.49
+2026-02-15T22:57:58.230962,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:58:04.670421,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",442041.49
+2026-02-15T22:58:13.010367,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:58:13.413486,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",442041.49
+2026-02-15T22:58:28.755688,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",442041.49
+2026-02-15T22:58:34.931249,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:58:37.965716,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",442041.49
+2026-02-15T22:58:47.420491,TCS.NS,Crash,AUTO_TRADE,0.0,"TCS.NS selected under Crash regime. Risk-adjusted allocation = 0.0%. Volatility=0.253, Drawdown=-0.264.",442041.49
+2026-02-15T22:58:50.127245,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:58:57.146699,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",442041.49
+2026-02-15T22:59:05.684213,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:59:05.923694,RELIANCE.NS,High Volatility,AUTO_TRADE,0.25,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 25.0%. Volatility=0.259, Drawdown=-0.132.",459775.09
+2026-02-15T22:59:14.659888,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",437772.29
+2026-02-15T22:59:19.588008,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:59:25.337741,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",437772.29
+2026-02-15T22:59:34.661839,TCS.NS,Crash,AUTO_TRADE,0.0,"TCS.NS selected under Crash regime. Risk-adjusted allocation = 0.0%. Volatility=0.253, Drawdown=-0.264.",437772.29
+2026-02-15T22:59:36.450609,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:59:45.455918,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",437772.29
+2026-02-15T22:59:54.533105,ITC.NS,High Volatility,AUTO_TRADE,0.2,"ITC.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T22:59:55.232604,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",437772.29
+2026-02-15T23:00:04.899685,RELIANCE.NS,High Volatility,AUTO_TRADE,0.17,"RELIANCE.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",437772.29
+2026-02-15T23:00:09.351446,LT.NS,High Volatility,AUTO_TRADE,0.2,"LT.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T23:00:14.441354,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",437772.29
+2026-02-15T23:00:23.340050,TCS.NS,High Volatility,AUTO_TRADE,0.16,"TCS.NS selected under High Volatility regime. Risk-adjusted allocation = 16.0%. Volatility=0.366, Drawdown=-0.174.",419177.39
+2026-02-15T23:00:23.505379,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T23:00:33.099850,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",441560.14
+2026-02-15T23:00:38.396954,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100401.1
+2026-02-15T23:00:42.233656,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",441560.14
+2026-02-15T23:03:22.251994,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T23:03:32.647999,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T23:03:43.228587,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T23:03:53.918158,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T23:04:04.179036,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T23:04:14.988244,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T23:04:25.734270,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T23:04:36.709033,INFY.NS,High Volatility,AUTO_TRADE,0.17,"INFY.NS selected under High Volatility regime. Risk-adjusted allocation = 17.0%. Volatility=0.403, Drawdown=-0.19.",100000.0
+2026-02-15T23:09:39.245655,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:09:54.329435,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:10:15.465982,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:10:37.491689,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:10:59.286891,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:11:14.752398,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:11:29.758734,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:11:47.635457,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:12:08.713918,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:12:30.497095,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:12:51.724765,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:13:13.206863,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:13:34.156294,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:13:48.938417,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:14:11.021076,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:14:32.564968,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:16:23.630271,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:16:44.828883,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:17:08.015316,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:17:33.487996,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:17:49.516485,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:18:05.981746,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:18:21.645875,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:18:46.255708,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:19:09.759934,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:19:25.810342,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:19:48.519094,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:21:32.357314,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:21:48.262904,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:22:03.233654,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:22:18.170599,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:22:33.020185,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:22:49.205540,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:23:04.030246,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:23:25.804591,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:23:47.358049,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:24:07.969189,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:24:23.370694,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:25:57.134190,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:26:13.181263,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:26:28.087371,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:26:42.859915,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:26:57.764917,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:27:12.680508,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:27:35.689844,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:27:56.831457,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:28:14.616246,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:28:29.734610,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:30:21.328253,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:30:42.370515,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:31:04.480016,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:31:25.833488,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:31:48.463946,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:32:03.995947,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:32:18.787350,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:32:34.659237,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:32:57.447988,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:33:19.566238,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:33:41.731698,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:34:03.509842,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:34:25.207138,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:36:08.258492,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:45:51.279100,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:46:12.079164,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:46:33.350695,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:46:48.034778,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:47:02.816797,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:47:17.754713,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:47:32.269191,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:53:44.606656,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:53:59.695845,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:54:14.373088,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:54:28.942547,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:54:43.990313,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:54:58.695018,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:55:18.184477,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:55:32.783338,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:55:47.423788,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:56:01.964901,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:56:17.325194,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:56:38.819983,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:56:59.898790,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:57:22.084325,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:57:44.254654,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:58:06.204608,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:58:21.531691,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:58:36.650447,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:58:51.632618,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:59:06.902446,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:59:21.700469,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:59:37.168757,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-15T23:59:52.023926,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-16T00:00:06.809482,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-16T00:00:27.896236,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-16T00:00:49.748276,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-16T00:01:12.236461,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-16T00:01:34.405747,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-16T00:01:55.357571,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-16T00:02:17.029316,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-16T00:02:38.154238,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-16T00:03:00.592040,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-16T00:03:21.753909,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-16T00:03:43.380992,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-16T00:04:01.516960,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-16T00:04:16.181327,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-16T00:04:30.799973,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-16T00:04:45.429145,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-16T00:05:02.536966,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-16T00:05:24.043226,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
+2026-02-16T00:05:45.799659,SBIN.NS,High Volatility,AUTO_TRADE,0.2,"SBIN.NS selected under High Volatility regime. Risk-adjusted allocation = 20.0%. Volatility=0.374, Drawdown=-0.045.",100000.0
