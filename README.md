@@ -41,6 +41,9 @@ Visualized live
 
 🏗 System Architecture Overview
 
+<img width="1536" height="1024" alt="ChatGPT Image Feb 16, 2026, 12_48_39 AM" src="https://github.com/user-attachments/assets/3f07b216-9d08-45de-877c-91ca769a613d" />
+
+
 The platform is built as a modular AI pipeline, enabling both batch analysis and continuous live trading.
 
 🔹 High-Level Flow
