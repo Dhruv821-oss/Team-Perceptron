@@ -272,6 +272,9 @@ def risk_status(key):
             "Calmar": calmar
         }
     })
+@app.route("/portfolio-health")
+def portfolio_health():
+    return render_template("portfolio_health.html")
 
 
 # ======================================
