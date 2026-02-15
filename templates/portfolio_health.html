@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Portfolio Health | Team Perceptron</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+
+<nav class="navbar">
+  <div class="logo">🫀 Portfolio Health</div>
+  <div class="nav-links">
+    <a href="/live">Live Trading</a>
+    <a href="/risk">Risk Analysis</a>
+    <a href="/dashboard">Dashboard</a>
+  </div>
+</nav>
+
+<div class="container">
+
+  <div class="card">
+
+    <h1>🫀 Portfolio Health Score</h1>
+    <p class="muted">
+      A real-time composite measure of capital safety, volatility stress,
+      drawdowns, and regime alignment.
+    </p>
+
+    <!-- ================= ALERT ================= -->
+    <div id="healthAlert" class="risk-alert safe">
+      🟢 Capital Healthy — Monitoring continuously
+    </div>
+
+    <!-- ================= SCORE ================= -->
+    <div class="health-score-box">
+      <div class="health-score" id="healthScore">--</div>
+      <div class="health-status" id="healthStatus">Analyzing...</div>
+    </div>
+
+    <hr>
+
+    <!-- ================= BREAKDOWN ================= -->
+    <div class="health-grid">
+
+      <div class="health-box">
+        <h3>📉 Drawdown Health</h3>
+        <p id="hd_drawdown">--</p>
+      </div>
+
+      <div class="health-box">
+        <h3>⚠ Volatility Health</h3>
+        <p id="hd_volatility">--</p>
+      </div>
+
+      <div class="health-box">
+        <h3>⚖ Risk-Adjusted Return</h3>
+        <p id="hd_riskadj">--</p>
+      </div>
+
+      <div class="health-box">
+        <h3>💰 Capital Preservation</h3>
+        <p id="hd_capital">--</p>
+      </div>
+
+      <div class="health-box">
+        <h3>🧭 Regime Alignment</h3>
+        <p id="hd_regime">--</p>
+      </div>
+
+    </div>
+
+    <hr>
+
+    <!-- ================= INTERPRETATION ================= -->
+    <div class="card subtle">
+      <h2>🧠 What This Means</h2>
+      <ul class="risk-notes">
+        <li>Higher scores imply safer capital deployment</li>
+        <li>Low scores signal volatility, drawdowns, or misalignment</li>
+        <li>Used internally to throttle or halt trading</li>
+      </ul>
+    </div>
+
+  </div>
+</div>
+
+<!-- ================= JS ================= -->
+<script>
+const activeKey = localStorage.getItem("activeKey");
+
+if (!activeKey) {
+  document.getElementById("healthAlert").innerText =
+    "⚠ No live trading session detected";
+}
+
+setInterval(async () => {
+  if (!activeKey) return;
+
+  const res = await fetch("/live/status/" + activeKey);
+  const j = await res.json();
+  if (!j.running || !j.data) return;
+
+  const h = j.data.health;
+  if (!h) return;
+
+  // ===== MAIN SCORE =====
+  const score = Math.round(h.score);
+  const status = h.status;
+
+  document.getElementById("healthScore").innerText = score;
+  document.getElementById("healthStatus").innerText = status;
+
+  // ===== COMPONENTS =====
+  document.getElementById("hd_drawdown").innerText =
+    Math.round(h.components.drawdown);
+
+  document.getElementById("hd_volatility").innerText =
+    Math.round(h.components.volatility);
+
+  document.getElementById("hd_riskadj").innerText =
+    Math.round(h.components.risk_adjusted);
+
+  document.getElementById("hd_capital").innerText =
+    Math.round(h.components.capital);
+
+  document.getElementById("hd_regime").innerText =
+    Math.round(h.components.regime_alignment);
+
+  // ===== ALERT =====
+  const alert = document.getElementById("healthAlert");
+
+  if (score < 40) {
+    alert.className = "risk-alert danger";
+    alert.innerText = "🔴 CRITICAL — Capital at Risk";
+  } else if (score < 60) {
+    alert.className = "risk-alert warn";
+    alert.innerText = "🟠 WARNING — Risk Increasing";
+  } else {
+    alert.className = "risk-alert safe";
+    alert.innerText = "🟢 Capital Healthy";
+  }
+
+}, 4000);
+</script>
+
+</body>
+</html>
